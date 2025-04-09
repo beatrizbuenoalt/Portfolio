@@ -1,6 +1,6 @@
 # 🌸 Portfólio Pessoal 
 
-Olá pessoal, sejam bem vindos ao meu Porfólio pessoal 
+Olá pessoal, sejam bem vindos ao meu Porfólio pessoal!
 Este projeto foi desenvolvido com carinho para apresentar minhas habilidades como uma estudante de Desenvolvimento de Sistemas e os projetos que estou desenvolvendo (até a data de criação não existe nenhum outro projeto).
 
 ## 🎯 Objetivo do site
