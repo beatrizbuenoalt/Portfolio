@@ -12,7 +12,7 @@ Este portfólio tem como principal objetivo ser uma forma de me conhecerem um po
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5** – <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" />
-- **Tailwind CSS (via CDN)** –  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" />
+- **Tailwind CSS** –  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" />
 - **JavaScript** –  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" />
 - **Formspree** 
 - **Google Fonts 
