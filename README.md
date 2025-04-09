@@ -56,7 +56,7 @@ Você pode me encontrar nesses lugares:
 Obrigada por visitar 💖
 
 ---
-##English version
+## English version
 # 🌸 Personal Portfolio
 
 Hello everyone, welcome to my personal portfolio!  
